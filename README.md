@@ -1,6 +1,6 @@
 # hand-made-echo-command
 
-simple echo command which is written in Python.
+A simple echo command which is written in Python.
 
 For examples;
 
