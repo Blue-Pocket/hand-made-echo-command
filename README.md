@@ -13,7 +13,7 @@ $ python3.11 echo.py a is $a
 
 a is 1.2345   
 
-$ python3.11 echo.py You and I have `expr 2 \* 30` dollars.  
+$ python3.11 echo.py You and I have \`expr 2 \* 30\` dollars.  
 
 You and I have 60 dollars.  
 
